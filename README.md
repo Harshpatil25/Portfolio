@@ -4,11 +4,7 @@ A modern, premium, and fully responsive personal portfolio built with React, Vit
 
 🌐 Live Demo
 
-Coming Soon
-
-📸 Preview
-
-Add a screenshot or GIF here after deployment.
+[Coming Soon](https://portfolio-harsh-patil.vercel.app/)
 
 ✨ Features
 🎨 Modern premium UI/UX
