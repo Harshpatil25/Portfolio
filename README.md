@@ -138,7 +138,7 @@ npm run preview
 
 **Harsh Patil**
 
-📍 Vasai, Maharashtra, India
+📍 Palghar, Maharashtra, India
 
 💻 GitHub: https://github.com/Harshpatil25
 
