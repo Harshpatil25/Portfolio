@@ -1,16 +1,97 @@
-# React + Vite
+🚀 Harsh Patil Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, premium, and fully responsive personal portfolio built with React, Vite, and Tailwind CSS. Designed to showcase my projects, skills, and journey as a Frontend Developer with smooth animations, elegant UI, and an exceptional user experience.
 
-Currently, two official plugins are available:
+🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Coming Soon
 
-## React Compiler
+📸 Preview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Add a screenshot or GIF here after deployment.
 
-## Expanding the ESLint configuration
+✨ Features
+🎨 Modern premium UI/UX
+🌙 Dark theme
+⚡ Fast performance with Vite
+📱 Fully responsive design
+🎬 Smooth page and scroll animations
+🖱️ Custom animated cursor (desktop)
+📈 Scroll progress indicator
+🚀 Premium loading screen
+🎭 Glassmorphism effects
+💡 Interactive hover animations
+🌀 Smooth scrolling with Lenis
+🧩 Reusable React components
+📂 GitHub profile integration
+📧 Contact form with EmailJS
+🔍 SEO optimized
+♿ Accessible and semantic HTML
+🛠️ Tech Stack
+Frontend
+React
+Vite
+Tailwind CSS
+JavaScript (ES6+)
+Libraries
+Framer Motion
+React Icons
+Lenis
+React Type Animation
+EmailJS
+React Helmet Async
+Tools
+Git
+GitHub
+VS Code
+📂 Project Structure
+src/
+│
+├── assets/
+├── components/
+│   ├── Navbar
+│   ├── Hero
+│   ├── About
+│   ├── Skills
+│   ├── Projects
+│   ├── GithubStats
+│   ├── Contact
+│   ├── Footer
+│   ├── LoadingScreen
+│   ├── CustomCursor
+│   ├── ScrollProgress
+│   ├── BackToTop
+│   └── AnimatedBackground
+│
+├── hooks/
+├── data/
+├── utils/
+│
+├── App.jsx
+└── main.jsx
+🚀 Getting Started
+Clone the repository
+git clone https://github.com/Harshpatil25/Portfolio.git
+Navigate into the project
+cd portfolio
+Install dependencies
+npm install
+Start the development server
+npm run dev
+📦 Build for Production
+npm run build
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Preview the production build:
+
+npm run preview
+📬 Contact
+
+Harsh Patil
+
+💻 GitHub: https://github.com/Harshpatil25
+📍 Vasai, Maharashtra, India
+📄 License
+
+This project is licensed under the MIT License. Feel free to use it as inspiration for your own portfolio, but please avoid copying it directly.
+
+⭐ If you like this project, consider giving it a star on GitHub!
