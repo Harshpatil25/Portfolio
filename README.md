@@ -1,46 +1,63 @@
-🚀 Harsh Patil Portfolio
+# 🚀 Harsh Patil Portfolio
 
-A modern, premium, and fully responsive personal portfolio built with React, Vite, and Tailwind CSS. Designed to showcase my projects, skills, and journey as a Frontend Developer with smooth animations, elegant UI, and an exceptional user experience.
+A modern, premium, and fully responsive personal portfolio built with **React**, **Vite**, and **Tailwind CSS**. Designed to showcase my projects, skills, and journey as a Frontend Developer with smooth animations, elegant UI, and an exceptional user experience.
 
-🌐 Live Demo
+## 🌐 Live Demo
 
-[Coming Soon](https://portfolio-harsh-patil.vercel.app/)
+[> Portfolio](https://portfolio-harsh-patil.vercel.app/)
 
-✨ Features
-🎨 Modern premium UI/UX
-🌙 Dark theme
-⚡ Fast performance with Vite
-📱 Fully responsive design
-🎬 Smooth page and scroll animations
-🖱️ Custom animated cursor (desktop)
-📈 Scroll progress indicator
-🚀 Premium loading screen
-🎭 Glassmorphism effects
-💡 Interactive hover animations
-🌀 Smooth scrolling with Lenis
-🧩 Reusable React components
-📂 GitHub profile integration
-📧 Contact form with EmailJS
-🔍 SEO optimized
-♿ Accessible and semantic HTML
-🛠️ Tech Stack
-Frontend
-React
-Vite
-Tailwind CSS
-JavaScript (ES6+)
-Libraries
-Framer Motion
-React Icons
-Lenis
-React Type Animation
-EmailJS
-React Helmet Async
-Tools
-Git
-GitHub
-VS Code
-📂 Project Structure
+---
+
+## ✨ Features
+
+- 🎨 Modern Premium UI/UX
+- 🌙 Dark Theme
+- ⚡ Fast Performance with Vite
+- 📱 Fully Responsive Design
+- 🎬 Smooth Page & Scroll Animations
+- 🖱️ Custom Animated Cursor (Desktop)
+- 📈 Scroll Progress Indicator
+- 🚀 Premium Loading Screen
+- 🪟 Glassmorphism Effects
+- 💡 Interactive Hover Animations
+- 🌀 Smooth Scrolling with Lenis
+- 🧩 Reusable React Components
+- 📂 GitHub Profile Integration
+- 📧 Contact Form with EmailJS
+- 🔍 SEO Optimized
+- ♿ Accessible & Semantic HTML
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+- React
+- Vite
+- Tailwind CSS
+- JavaScript (ES6+)
+
+### Libraries
+
+- Framer Motion
+- React Icons
+- Lenis
+- React Type Animation
+- EmailJS
+- React Helmet Async
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📂 Project Structure
+
+```text
 src/
 │
 ├── assets/
@@ -65,29 +82,68 @@ src/
 │
 ├── App.jsx
 └── main.jsx
-🚀 Getting Started
-Clone the repository
+```
+
+---
+
+## 🚀 Getting Started
+
+### Clone the repository
+
+```bash
 git clone https://github.com/Harshpatil25/Portfolio.git
-Navigate into the project
-cd portfolio
-Install dependencies
+```
+
+### Navigate to the project
+
+```bash
+cd Portfolio
+```
+
+### Install dependencies
+
+```bash
 npm install
-Start the development server
+```
+
+### Start the development server
+
+```bash
 npm run dev
-📦 Build for Production
+```
+
+---
+
+## 📦 Build for Production
+
+```bash
 npm run build
+```
 
 Preview the production build:
 
+```bash
 npm run preview
-📬 Contact
+```
 
-Harsh Patil
+---
+
+## 📬 Contact
+
+**Harsh Patil**
+
+📍 Palghar, Maharashtra, India
 
 💻 GitHub: https://github.com/Harshpatil25
-📍 Vasai, Maharashtra, India
-📄 License
 
-This project is licensed under the MIT License. Feel free to use it as inspiration for your own portfolio, but please avoid copying it directly.
+---
 
-⭐ If you like this project, consider giving it a star on GitHub!
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+Feel free to use this project as inspiration for your own portfolio, but please avoid copying it directly.
+
+---
+
+⭐ If you found this project helpful, consider giving it a star on GitHub!
